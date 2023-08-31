@@ -1,0 +1,30 @@
+.add-credit-checkout .woocommerce-form-coupon-toggle{
+   
+    display: none;
+}
+
+.add-credit-checkout #customer_details{
+    display: none;
+}
+
+.add-credit-checkout form{
+    margin-top: 15px;
+}
+
+
+.post-1424 .entry-title{
+    display: none !important;
+}
+
+.woocommerce-additional-fields h3{
+    display: none;
+}
+
+.woocommerce-billing-fields h3{
+    display: none !important;
+}
+
+.btn-custom{
+   border: 0 !important;
+   border-radius: 0 0 !important;
+}
